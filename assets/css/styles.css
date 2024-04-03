@@ -1,0 +1,51 @@
+/* Add to your assets/css/styles.css file */
+
+/* Container for magazine-style articles */
+.article-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Example of a two-column layout */
+  gap: 20px;
+}
+
+/* Styling for images */
+.article-image {
+  width: 800px;
+  height: auto;
+}
+
+/* Styling for headings */
+.article-heading {
+  font-weight: bold;
+  font-size: 2em;
+}
+
+/* Styling for subheadings */
+.article-subheading {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+/* Styling for paragraphs */ 
+.article-paragraph {
+  font-size: 1em;
+}
+
+body{text-align:justify;
+font-family:Sans !important;
+width:100%;
+}
+
+/* Font style */
+
+body, button, input, select, textarea {
+  font-family: "Sans Serif", "Times New Roman", serif;
+line-height:1.6em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Sans Serif", "Times New Roman", serif;
+}
+
+div{margin:10px;
+}
+
