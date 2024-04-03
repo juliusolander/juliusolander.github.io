@@ -23,7 +23,11 @@ Authors: Julius Olander (s203225), Astrid Machholm (s222228) & Diba Afzali (s223
     <h2 class="article-heading">Larceny in SF</h2>
 
 <span>In recent years, the city of San Francisco has worked hard to lower crime and make the city safer for everyone. The data used in this article is from San Francisco's Police Department, who publishes data on recorded crime incidences, including various descriptors of the crime, such as Category, Description, GPS Coordinates, Address, Time and Date etc. [1]. In the following, we look into the crime development from 2003 to 2018, specifically Larceny, and pose the questions: are the police and politicians of San Francisco doing the right thing to combat rising thefts, and does the current rise in homelessness contribute to the rising crime trend? </span>
- 
+
+<br/>
+<br/>
+
+
 <h3>California's highest rate of theft </h3>
 
 <span>Politicians, the San Francisco PD, and the local communities have gathered in an effort to reduce crime. Their efforts range from increased police presence and predictive policing to addiction treatment and neighborhood watching by local citizens. The data reported by the San Francisco PD shows a slight reduction or steady levels in the number of crimes across the biggest crime categories over recent years. Despite the effort to reduce crime, it doesn't have a significant positive effect on crime rates. Upon inspection, one category with a strong negative development stands out: Larceny and theft (Figure 1).  </span>
@@ -45,6 +49,7 @@ Not only is this latency and theft rising, but the San Francisco rates are also 
 
 
 <div class="col">
+<h3>Time and place increases risk of theft </h3>
 <span>As mostly all of San Franciscos homeless shelters are located in the Central and Tenderloin districts of San Francisco [4], this might be an indication that the high occurences of Shoplifting, Outdoor and Propertry  in the same area (Figure 2) has something to do with the large social gap that is present in such districts. These districts are where tourists, the middle and upper class go to eat, shop and work. These activities mostly occur in the peak working hours, and it is therefore no suprise that this is the times of day where by far the most larceny related crimes occur. Figure 2 and 3 confirm, that the opportunities for quick financial gain through larceny and theft are plenty, when both ends of the socioeconomic population are present in both the same time and place. It is important to state that these crimes are not necessesarily being committed by the homeless, but judging from the matter of fact of the many homeless shelters, both the rich and homeless are both present in these districts, and the evidence of large social inequality is indisputable. This has been shown to be the perfect breeding ground for high crime rates [5]. </span>
 <br/>  
 
@@ -53,7 +58,9 @@ Not only is this latency and theft rising, but the San Francisco rates are also 
 <span>
 The San Francisco PD data reports multiple sub-categories of larceny and theft; some are greatly overrepresented compared to others, and the automobile-related theft is responsible for the majority of the growth in instances. As per the Figure 2, it appears there is a correlation between the densely populated areas and larceny. While this is true, it is interesting to note that automobile-related theft is spread throughout all the San Francisco police districts. How this relates to the growing social-economic inequality and homelessness is unexplored in this data analysis and will require further research. What can, however, be said, is that measures must be taken to prevent these crimes.
 </span>
- 
+ <br/>
+<br/>
+
 
 <h3>Conclusion </h3>
 
